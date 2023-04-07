@@ -4,11 +4,11 @@
 
 # Part I: Relational Databases and SQL
 
-## [Chapter 1: Introduction to Relational Databases and SQL](chapter1/c1.md)
+## [Chapter 1: Introduction to Relational Databases and SQL](chapters/c1.md)
 
 This chapter presents an overview of relational databases and the foundational relational model upon which SQL is based. Additionally, you will gain a general understanding of SQL and its connection to RDBMSs.
 
-## Chapter 2: Working with the SQL Environment
+## [Chapter 2: Working with the SQL Environment](chapters/c2.md)
 
 This chapter describes the components that make up the SQL environment. You’ll also be introduced to the objects that make up a schema, and you’ll learn how to create a schema within your SQL environment. You’ll also be introduced to the concept of creating a database object in an SQL implementation that supports the creation of database objects.
 
